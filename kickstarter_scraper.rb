@@ -1,6 +1,6 @@
 require 'Nokogiri'
 require 'pry'
-class kickstarter_scraper
+class KickstarterScraper
 
 def create_project_hash
   # write your code here
